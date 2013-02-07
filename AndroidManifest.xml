@@ -1,0 +1,2 @@
+<!-- Additional permission for SMSComposer plugin -->
+<uses-permission android:name="android.permission.SEND_SMS"/>

@@ -1,0 +1,2 @@
+register the plugin in config.xml
+<plugin name="SMSComposer" value="com.yourcompany.projectname.SMSComposer" /> 
